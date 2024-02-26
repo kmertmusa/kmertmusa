@@ -1,4 +1,4 @@
-[![MasterHead](https://www.atriauniversity.edu.in/wp-content/uploads/2023/03/image1.jpg)
+![MasterHead](https://www.atriauniversity.edu.in/wp-content/uploads/2023/03/image1.jpg)
 <h1 align="center">Hi 👋, I'm Kerem Mert</h1>
 <h3 align="center">A passionate software engineer from Turkey</h3>
 
